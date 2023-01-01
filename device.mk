@@ -21,7 +21,8 @@ PRODUCT_PACKAGES += \
 
 # Overlays
 PRODUCT_PACKAGES += \
-   SonyGriffinSystemUIRes 
+   SonyGriffinSystemUIRes \
+   SonyGriffinFrameworksRes
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
