@@ -5,7 +5,7 @@
 #
 
 # Inherit from sony sm8150-common
-$(call inherit-product, device/sony/sm8150-common/common.mk)
+$(call inherit-product, device/sony/sm8150-common/kumano.mk)
 
 # AAPT
 PRODUCT_AAPT_CONFIG := xxxhdpi
