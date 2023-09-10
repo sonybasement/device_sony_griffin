@@ -617,17 +617,6 @@ vendor/firmware/ipa_uc.b02
 vendor/firmware/ipa_uc.elf
 vendor/firmware/ipa_uc.mdt
 
-# TZ Firmwae
-vendor/firmware/tzfpsselector.b00
-vendor/firmware/tzfpsselector.b01
-vendor/firmware/tzfpsselector.b02
-vendor/firmware/tzfpsselector.b03
-vendor/firmware/tzfpsselector.b04
-vendor/firmware/tzfpsselector.b05
-vendor/firmware/tzfpsselector.b06
-vendor/firmware/tzfpsselector.b07
-vendor/firmware/tzfpsselector.mdt
-
 # Wifi firmware
 vendor/bin/cnss-daemon
 vendor/etc/wifi/bdwlan.bin
