@@ -580,43 +580,6 @@ vendor/lib/camera/com.sony.sensormodule.milvus_s5k3m3.bin
 vendor/lib/libsomc_thermal.so
 vendor/lib64/libsomc_thermal.so
 
-# Graphics (Adreno firmware)
-vendor/firmware/a612_rgmu.bin
-vendor/firmware/a618_gmu.bin
-vendor/firmware/a630_gmu.bin
-vendor/firmware/a630_sqe.fw
-vendor/firmware/a640_gmu.bin
-vendor/firmware/a640_zap.b00
-vendor/firmware/a640_zap.b01
-vendor/firmware/a640_zap.b02
-vendor/firmware/a640_zap.mdt
-
-# Fingerprint Firmware
-vendor/firmware/egista.b00
-vendor/firmware/egista.b01
-vendor/firmware/egista.b02
-vendor/firmware/egista.b03
-vendor/firmware/egista.b04
-vendor/firmware/egista.b05
-vendor/firmware/egista.b06
-vendor/firmware/egista.b07
-vendor/firmware/egista.mdt
-
-# IPA firmware
-vendor/etc/init/ipa_fws.rc
-vendor/firmware/ipa_fws.b00
-vendor/firmware/ipa_fws.b01
-vendor/firmware/ipa_fws.b02
-vendor/firmware/ipa_fws.b03
-vendor/firmware/ipa_fws.b04
-vendor/firmware/ipa_fws.elf
-vendor/firmware/ipa_fws.mdt
-vendor/firmware/ipa_uc.b00
-vendor/firmware/ipa_uc.b01
-vendor/firmware/ipa_uc.b02
-vendor/firmware/ipa_uc.elf
-vendor/firmware/ipa_uc.mdt
-
 # Wifi firmware
 vendor/bin/cnss-daemon
 vendor/etc/wifi/bdwlan.bin
